@@ -14,3 +14,4 @@ EfficientNetB5: https://keras.io/api/applications/efficientnet/
 Rethinking Model Scaling for Convolutional Neural: https://arxiv.org/abs/1905.11946
 
 OCT: https://www.sciencedirect.com/science/article/pii/S0092867418301545
+![EfficientNetModel](https://user-images.githubusercontent.com/89904776/138710279-2f7416b0-8241-4b31-b454-286757dec0a9.png)
