@@ -10,5 +10,7 @@ Data download : https://data.mendeley.com/datasets/rscbjbr9sj/2
 Reference:
 
 EfficientNetB5: https://keras.io/api/applications/efficientnet/
+
 Rethinking Model Scaling for Convolutional Neural: https://arxiv.org/abs/1905.11946
+
 OCT: https://www.sciencedirect.com/science/article/pii/S0092867418301545
